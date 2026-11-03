@@ -1,0 +1,15 @@
+@page "/session-transfer"
+@model TransferModel
+@{
+    ViewData["Title"] = "Signing in";
+}
+
+<section class="login-panel">
+    <h1>Signing in</h1>
+    <p>Continue to the legacy application to complete sign-in.</p>
+    <form id="session-bridge" method="post" action="/_bridge/session.asp">
+        <input type="hidden" name="ticket" value="@Model.Ticket" />
+        <button type="submit">Continue</button>
+    </form>
+</section>
+<script>document.getElementById("session-bridge").requestSubmit();</script>

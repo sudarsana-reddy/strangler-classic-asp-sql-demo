@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\Gateway\Gateway.exe
+C:\inetpub\wwwroot\Gateway\appsettings.Development.json
+C:\inetpub\wwwroot\Gateway\appsettings.json
+C:\inetpub\wwwroot\Gateway\Gateway.dll
+C:\inetpub\wwwroot\Gateway\Gateway.deps.json
+C:\inetpub\wwwroot\Gateway\Gateway.runtimeconfig.json
+C:\inetpub\wwwroot\Gateway\Gateway.pdb
+C:\inetpub\wwwroot\Gateway\System.IO.Hashing.dll
+C:\inetpub\wwwroot\Gateway\Yarp.ReverseProxy.dll

@@ -1,0 +1,9 @@
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\Gateway.exe
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\appsettings.Development.json
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\appsettings.json
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\Gateway.dll
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\Gateway.deps.json
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\Gateway.runtimeconfig.json
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\Gateway.pdb
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\System.IO.Hashing.dll
+C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\Gateway\bin\Release\net10.0\publish\Yarp.ReverseProxy.dll

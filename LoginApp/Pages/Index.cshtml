@@ -1,0 +1,35 @@
+@page "/"
+@model IndexModel
+@{
+    ViewData["Title"] = "SQL-backed Login";
+}
+
+<section class="login-panel">
+    <h1>SQL-backed Login</h1>
+
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        <p>Welcome, @User.Identity.Name.</p>
+        <a class="button-link" href="/logout">Logout</a>
+    }
+    else
+    {
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="validation-message" role="alert"></div>
+            <label asp-for="Input.Username"></label>
+            <input asp-for="Input.Username" autocomplete="username" />
+            <span asp-validation-for="Input.Username" class="validation-message"></span>
+
+            <label asp-for="Input.Password"></label>
+            <input asp-for="Input.Password" autocomplete="current-password" />
+            <span asp-validation-for="Input.Password" class="validation-message"></span>
+
+            @if (Model.ErrorMessage is not null)
+            {
+                <p class="validation-message" role="alert">@Model.ErrorMessage</p>
+            }
+
+            <button type="submit">Login</button>
+        </form>
+    }
+</section>

@@ -1,0 +1,13 @@
+@page "/logout/transfer"
+@{
+    ViewData["Title"] = "Signing out";
+}
+
+<section class="login-panel">
+    <h1>Signing out</h1>
+    <p>Closing your legacy application session…</p>
+    <form id="session-bridge" method="post" action="/_bridge/logout.asp">
+        <button type="submit">Continue</button>
+    </form>
+</section>
+<script>document.getElementById("session-bridge").requestSubmit();</script>

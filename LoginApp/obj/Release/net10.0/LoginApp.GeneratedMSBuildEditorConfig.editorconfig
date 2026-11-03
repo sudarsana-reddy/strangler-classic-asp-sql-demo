@@ -1,0 +1,48 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LoginApp
+build_property.RootNamespace = LoginApp
+build_property.ProjectDir = C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\LoginApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\coding\legacy\github_repos\strangler-classic-asp-sql-demo\LoginApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/coding/legacy/github_repos/strangler-classic-asp-sql-demo/LoginApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/coding/legacy/github_repos/strangler-classic-asp-sql-demo/LoginApp/Pages/LogoutTransfer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0VHJhbnNmZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/coding/legacy/github_repos/strangler-classic-asp-sql-demo/LoginApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/coding/legacy/github_repos/strangler-classic-asp-sql-demo/LoginApp/Pages/Transfer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNmZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/coding/legacy/github_repos/strangler-classic-asp-sql-demo/LoginApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/coding/legacy/github_repos/strangler-classic-asp-sql-demo/LoginApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
